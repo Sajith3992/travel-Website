@@ -37,12 +37,15 @@ li{
 }
 .icon{
     font-size: 2rem;
+    cursor: pointer;
 }
 .flex{
     display: flex;
+    align-items: center;
 }
 .grid{
     display: grid;
+    align-items: center;
 }
 .btn{
     padding: .6rem 1.5rem;
